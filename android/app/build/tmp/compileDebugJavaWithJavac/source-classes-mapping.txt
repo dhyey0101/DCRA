@@ -1,0 +1,16 @@
+com/dcra/SplashActivity.java
+ com.dcra.SplashActivity
+com/dcra/ReactNativeFlipper.java
+ com.dcra.ReactNativeFlipper
+ com.dcra.ReactNativeFlipper$1
+ com.dcra.ReactNativeFlipper$2
+ com.dcra.ReactNativeFlipper$2$1
+com/dcra/MainApplication.java
+ com.dcra.MainApplication
+ com.dcra.MainApplication$1
+com/dcra/BuildConfig.java
+ com.dcra.BuildConfig
+com/dcra/MainActivity.java
+ com.dcra.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

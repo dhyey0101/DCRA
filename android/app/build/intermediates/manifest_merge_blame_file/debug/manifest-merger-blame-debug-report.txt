@@ -1,0 +1,603 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dcra"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:5:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->[com.facebook.flipper:flipper:0.99.0] /home/zestbrains/.gradle/caches/transforms-3/85722bbced5f75f7128f01e28eb86f9e/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+14-->[com.facebook.flipper:flipper:0.99.0] /home/zestbrains/.gradle/caches/transforms-3/85722bbced5f75f7128f01e28eb86f9e/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[:react-native-firebase_auth] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+15-->[:react-native-firebase_auth] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:react-native-firebase_auth] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+16-->[:react-native-firebase_auth] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+17
+18    <queries>
+18-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+19        <intent>
+19-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+20            <action android:name="android.media.action.IMAGE_CAPTURE" />
+20-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+20-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+21        </intent>
+22    </queries>
+23
+24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+24-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+24-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:22-78
+25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+25-->[:react-native-maps] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+25-->[:react-native-maps] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-78
+26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+26-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:5-82
+26-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:22-79
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/2c1e4c8b84a4f8fbb08a95b4e24f06f6/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/2c1e4c8b84a4f8fbb08a95b4e24f06f6/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+30        android:required="true" />
+30-->[com.google.android.gms:play-services-maps:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/2c1e4c8b84a4f8fbb08a95b4e24f06f6/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+31
+32    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+32-->[com.android.installreferrer:installreferrer:1.1.2] /home/zestbrains/.gradle/caches/transforms-3/b59f81439f4317965a032b0dd9e670ca/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+32-->[com.android.installreferrer:installreferrer:1.1.2] /home/zestbrains/.gradle/caches/transforms-3/b59f81439f4317965a032b0dd9e670ca/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+33
+34    <application
+34-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:7:5-60:19
+35        android:name="com.dcra.MainApplication"
+35-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:8:7-38
+36        android:allowBackup="false"
+36-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:12:7-34
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.6.0] /home/zestbrains/.gradle/caches/transforms-3/d3d370670d8dbd7ec202f2a9db7ebc37/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_launcher"
+39-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:10:7-41
+40        android:label="@string/app_name"
+40-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:9:7-39
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:11:7-52
+42        android:supportsRtl="true"
+42-->[com.facebook.android:facebook-android-sdk:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/80c2ca7aee9fba5b97eba88ea4092e42/transformed/jetified-facebook-android-sdk-12.3.0/AndroidManifest.xml:28:18-44
+43        android:theme="@style/AppTheme"
+43-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:13:7-38
+44        android:usesCleartextTraffic="true" >
+44-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/debug/AndroidManifest.xml:8:9-44
+45        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+45-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:58:7-84
+45-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:58:17-81
+46
+47        <meta-data
+47-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:14:7-105
+48            android:name="com.facebook.sdk.ApplicationId"
+48-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:14:18-63
+49            android:value="@string/facebook_app_id" />
+49-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:14:64-103
+50        <meta-data
+50-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:15:7-109
+51            android:name="com.facebook.sdk.ClientToken"
+51-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:15:18-61
+52            android:value="@string/facebook_client_token" />
+52-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:15:62-107
+53        <meta-data
+53-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:16:8-19:9
+54            android:name="com.google.android.geo.API_KEY"
+54-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:17:9-54
+55            android:value="AIzaSyCmlSqVseFBKqpI-IdpgJFYA6jogonVTkE" />
+55-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:18:9-64
+56        <meta-data
+56-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:20:7-22:65
+57            android:name="com.google.android.gms.version"
+57-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:21:9-54
+58            android:value="@integer/google_play_services_version" />
+58-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:22:9-62
+59
+60        <activity
+60-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:24:10-33:18
+61            android:name="com.facebook.CustomTabActivity"
+61-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:25:11-56
+62            android:exported="true" >
+62-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:26:11-34
+63            <intent-filter>
+63-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:27:11-32:27
+64                <action android:name="android.intent.action.VIEW" />
+64-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:15-67
+64-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:23-64
+65
+66                <category android:name="android.intent.category.DEFAULT" />
+66-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:15-74
+66-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:25-71
+67                <category android:name="android.intent.category.BROWSABLE" />
+67-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:15-76
+67-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:25-73
+68
+69                <data android:scheme="@string/fb_login_protocol_scheme" />
+69-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:15-73
+69-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:21-70
+70            </intent-filter>
+71            <intent-filter>
+71-->[com.facebook.android:facebook-common:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/574b6fd3f99a4b657f26ac36d5ca9b10/transformed/jetified-facebook-common-12.3.0/AndroidManifest.xml:39:13-48:29
+72                <action android:name="android.intent.action.VIEW" />
+72-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:15-67
+72-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:23-64
+73
+74                <category android:name="android.intent.category.DEFAULT" />
+74-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:15-74
+74-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:25-71
+75                <category android:name="android.intent.category.BROWSABLE" />
+75-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:15-76
+75-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:25-73
+76
+77                <data
+77-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:15-73
+78                    android:host="cct.com.dcra"
+79                    android:scheme="fbconnect" />
+79-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:21-70
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:34:8-42:17
+83            android:name="com.dcra.SplashActivity"
+83-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:35:9-39
+84            android:label="@string/app_name"
+84-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:37:9-41
+85            android:theme="@style/SplashTheme" >
+85-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:36:9-43
+86            <intent-filter>
+86-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:38:9-41:25
+87                <action android:name="android.intent.action.MAIN" />
+87-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:39:11-63
+87-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:39:19-60
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:40:11-71
+89-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:40:21-68
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:43:7-51:18
+93            android:name="com.dcra.MainActivity"
+93-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:44:9-37
+94            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+94-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:46:9-86
+95            android:exported="true"
+95-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:49:9-32
+96            android:label="@string/app_name"
+96-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:45:9-41
+97            android:launchMode="singleTask"
+97-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:47:9-40
+98            android:windowSoftInputMode="adjustResize" >
+98-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:48:9-51
+99        </activity>
+100        <activity
+100-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:53:7-56:46
+101            android:name="com.facebook.FacebookActivity"
+101-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:53:17-61
+102            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+102-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:54:11-113
+103            android:label="@string/app_name"
+103-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:56:11-43
+104            android:theme="@style/com_facebook_activity_theme" />
+104-->[com.facebook.android:facebook-common:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/574b6fd3f99a4b657f26ac36d5ca9b10/transformed/jetified-facebook-common-12.3.0/AndroidManifest.xml:33:13-63
+105
+106        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+106-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-111
+106-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-108
+107        <service
+107-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-21:19
+108            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+108-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-95
+109            android:exported="false" >
+109-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-37
+110            <intent-filter>
+110-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-20:29
+111                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+111-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:17-78
+111-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:25-75
+112            </intent-filter>
+113        </service>
+114
+115        <receiver
+115-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-30:20
+116            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+116-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-96
+117            android:exported="true"
+117-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-36
+118            android:permission="com.google.android.c2dm.permission.SEND" >
+118-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-73
+119            <intent-filter>
+119-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:29
+120                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+120-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-81
+120-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-78
+121            </intent-filter>
+122        </receiver>
+123
+124        <meta-data
+124-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-34:36
+125            android:name="firebase_messaging_auto_init_enabled"
+125-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-64
+126            android:value="true" />
+126-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-33
+127        <meta-data
+127-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-37:32
+128            android:name="com.google.firebase.messaging.default_notification_channel_id"
+128-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-89
+129            android:value="" />
+129-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-29
+130        <meta-data
+130-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:9-40:47
+131            android:name="com.google.firebase.messaging.default_notification_color"
+131-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-84
+132            android:resource="@color/white" />
+132-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-44
+133        <meta-data
+133-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
+134            android:name="app_data_collection_default_enabled"
+134-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+135            android:value="true" />
+135-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
+136
+137        <service
+137-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
+138            android:name="com.google.firebase.components.ComponentDiscoveryService"
+138-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
+139            android:directBootAware="true"
+139-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+140            android:exported="false" >
+140-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+141            <meta-data
+141-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+142                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+142-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
+143                android:value="com.google.firebase.components.ComponentRegistrar" />
+143-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+144            <meta-data
+144-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+145                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+145-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:52:13-54:85
+148                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+148-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:53:17-119
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:54:17-82
+150            <meta-data
+150-->[com.google.firebase:firebase-datatransport:18.0.0] /home/zestbrains/.gradle/caches/transforms-3/df6a79a99b260ce77c9364f6880f6b3a/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+151                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+151-->[com.google.firebase:firebase-datatransport:18.0.0] /home/zestbrains/.gradle/caches/transforms-3/df6a79a99b260ce77c9364f6880f6b3a/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+152                android:value="com.google.firebase.components.ComponentRegistrar" />
+152-->[com.google.firebase:firebase-datatransport:18.0.0] /home/zestbrains/.gradle/caches/transforms-3/df6a79a99b260ce77c9364f6880f6b3a/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+153            <meta-data
+153-->[com.google.firebase:firebase-installations:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/8988d75e8fd616751377ffdb863f8c8b/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+154                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+154-->[com.google.firebase:firebase-installations:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/8988d75e8fd616751377ffdb863f8c8b/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+155                android:value="com.google.firebase.components.ComponentRegistrar" />
+155-->[com.google.firebase:firebase-installations:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/8988d75e8fd616751377ffdb863f8c8b/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+156        </service>
+157
+158        <provider
+158-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
+159            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+159-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
+160            android:authorities="com.dcra.reactnativefirebaseappinitprovider"
+160-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
+161            android:exported="false"
+161-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+162            android:initOrder="99" />
+162-->[:react-native-firebase_app] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
+163        <provider
+163-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+164            android:name="androidx.core.content.FileProvider"
+164-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-62
+165            android:authorities="com.dcra.provider"
+165-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+166            android:exported="false"
+166-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+167            android:grantUriPermissions="true" >
+167-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+168            <meta-data
+168-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+169                android:name="android.support.FILE_PROVIDER_PATHS"
+169-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+170                android:resource="@xml/provider_paths" />
+170-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+171        </provider>
+172
+173        <activity
+173-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+174            android:name="com.yalantis.ucrop.UCropActivity"
+174-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+175            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+175-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+176
+177        <provider
+177-->[:react-native-image-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+178            android:name="com.imagepicker.ImagePickerProvider"
+178-->[:react-native-image-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+179            android:authorities="com.dcra.imagepickerprovider"
+179-->[:react-native-image-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+180            android:exported="false"
+180-->[:react-native-image-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+181            android:grantUriPermissions="true" >
+181-->[:react-native-image-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+182            <meta-data
+182-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+183                android:name="android.support.FILE_PROVIDER_PATHS"
+183-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+184                android:resource="@xml/imagepicker_provider_paths" />
+184-->[:react-native-image-crop-picker] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+185        </provider>
+186
+187        <activity
+187-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+188            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+188-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+189            android:excludeFromRecents="true"
+189-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+190            android:exported="true"
+190-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+191            android:launchMode="singleTask"
+191-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+192            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+192-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+193            <intent-filter>
+193-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+194                <action android:name="android.intent.action.VIEW" />
+194-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:15-67
+194-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:23-64
+195
+196                <category android:name="android.intent.category.DEFAULT" />
+196-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:15-74
+196-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:25-71
+197                <category android:name="android.intent.category.BROWSABLE" />
+197-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:15-76
+197-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:25-73
+198
+199                <data
+199-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:15-73
+200                    android:host="firebase.auth"
+201                    android:path="/"
+202                    android:scheme="genericidp" />
+202-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:21-70
+203            </intent-filter>
+204        </activity>
+205        <activity
+205-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+206            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+206-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+207            android:excludeFromRecents="true"
+207-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+208            android:exported="true"
+208-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+209            android:launchMode="singleTask"
+209-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+210            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+210-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+211            <intent-filter>
+211-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+212                <action android:name="android.intent.action.VIEW" />
+212-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:15-67
+212-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:28:23-64
+213
+214                <category android:name="android.intent.category.DEFAULT" />
+214-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:15-74
+214-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:25-71
+215                <category android:name="android.intent.category.BROWSABLE" />
+215-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:15-76
+215-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:30:25-73
+216
+217                <data
+217-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:15-73
+218                    android:host="firebase.auth"
+219                    android:path="/"
+220                    android:scheme="recaptcha" />
+220-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:31:21-70
+221            </intent-filter>
+222        </activity>
+223
+224        <service
+224-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+225            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+225-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+226            android:enabled="true"
+226-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+227            android:exported="false" >
+227-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+228            <intent-filter>
+228-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+229                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+229-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+229-->[com.google.firebase:firebase-auth:21.0.1] /home/zestbrains/.gradle/caches/transforms-3/f2d26ed5eedabf975116ce7f41ef076b/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+230
+231                <category android:name="android.intent.category.DEFAULT" />
+231-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:15-74
+231-->/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/AndroidManifest.xml:29:25-71
+232            </intent-filter>
+233        </service>
+234
+235        <activity android:name="com.facebook.CustomTabMainActivity" />
+235-->[com.facebook.android:facebook-common:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/574b6fd3f99a4b657f26ac36d5ca9b10/transformed/jetified-facebook-common-12.3.0/AndroidManifest.xml:34:9-71
+235-->[com.facebook.android:facebook-common:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/574b6fd3f99a4b657f26ac36d5ca9b10/transformed/jetified-facebook-common-12.3.0/AndroidManifest.xml:34:19-68
+236
+237        <receiver
+237-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:28:9-35:20
+238            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+238-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:29:13-78
+239            android:exported="true"
+239-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:30:13-36
+240            android:permission="com.google.android.c2dm.permission.SEND" >
+240-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:31:13-73
+241            <intent-filter>
+241-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:29
+242                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+242-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-81
+242-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-78
+243            </intent-filter>
+244        </receiver>
+245        <!--
+246             FirebaseMessagingService performs security checks at runtime,
+247             but set to not exported to explicitly avoid allowing another app to call it.
+248        -->
+249        <service
+249-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:41:9-48:19
+250            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+250-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:42:13-82
+251            android:directBootAware="true"
+251-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:43:13-43
+252            android:exported="false" >
+252-->[com.google.firebase:firebase-messaging:23.0.0] /home/zestbrains/.gradle/caches/transforms-3/9cd7d9b6c30adfe8fcbfc09b66753e90/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:44:13-37
+253            <intent-filter android:priority="-500" >
+253-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-20:29
+254                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+254-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:17-78
+254-->[:react-native-firebase_messaging] /home/zestbrains/React-Native-Project/Dhyey/dcra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:25-75
+255            </intent-filter>
+256        </service>
+257        <service
+257-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/d813a6c306d14a6fce92ad421fda2666/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+258            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+258-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/d813a6c306d14a6fce92ad421fda2666/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+259            android:exported="false" >
+259-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/d813a6c306d14a6fce92ad421fda2666/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+260            <meta-data
+260-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/d813a6c306d14a6fce92ad421fda2666/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+261                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+261-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/d813a6c306d14a6fce92ad421fda2666/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+262                android:value="cct" />
+262-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/d813a6c306d14a6fce92ad421fda2666/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+263        </service>
+264        <service
+264-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+265            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+265-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+266            android:exported="false"
+266-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+267            android:permission="android.permission.BIND_JOB_SERVICE" >
+267-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+268        </service>
+269
+270        <receiver
+270-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+271            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+271-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+272            android:exported="false" />
+272-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/zestbrains/.gradle/caches/transforms-3/9a5de049a02ad5cd9f43a16387d157b5/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+273        <!--
+274         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+275         with the application context. This config is merged in with the host app's manifest,
+276         but there can only be one provider with the same authority activated at any given
+277         point; so if the end user has two or more different apps that use Facebook SDK, only the
+278         first one will be able to use the provider. To work around this problem, we use the
+279         following placeholder in the authority to identify each host application as if it was
+280         a completely different provider.
+281        -->
+282        <provider
+282-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:39:9-42:40
+283            android:name="com.facebook.internal.FacebookInitProvider"
+283-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:40:13-70
+284            android:authorities="com.dcra.FacebookInitProvider"
+284-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:41:13-72
+285            android:exported="false" />
+285-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:42:13-37
+286
+287        <receiver
+287-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:44:9-50:20
+288            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+288-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:45:13-86
+289            android:exported="false" >
+289-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:46:13-37
+290            <intent-filter>
+290-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:47:13-49:29
+291                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+291-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:48:17-95
+291-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:48:25-92
+292            </intent-filter>
+293        </receiver>
+294        <receiver
+294-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:51:9-57:20
+295            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+295-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:52:13-118
+296            android:exported="false" >
+296-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:53:13-37
+297            <intent-filter>
+297-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:54:13-56:29
+298                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+298-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:55:17-103
+298-->[com.facebook.android:facebook-core:12.3.0] /home/zestbrains/.gradle/caches/transforms-3/c523f9c88d651bfddf5b5ef987a73586/transformed/jetified-facebook-core-12.3.0/AndroidManifest.xml:55:25-100
+299            </intent-filter>
+300        </receiver>
+301
+302        <activity
+302-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:23:9-27:75
+303            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+303-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:24:13-93
+304            android:excludeFromRecents="true"
+304-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:25:13-46
+305            android:exported="false"
+305-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:26:13-37
+306            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+306-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:27:13-72
+307        <!--
+308            Service handling Google Sign-In user revocation. For apps that do not integrate with
+309            Google Sign-In, this service will never be started.
+310        -->
+311        <service
+311-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:33:9-37:51
+312            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+312-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:34:13-89
+313            android:exported="true"
+313-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:35:13-36
+314            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+314-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:36:13-107
+315            android:visibleToInstantApps="true" /> <!-- Needs to be explicitly declared on P+ -->
+315-->[com.google.android.gms:play-services-auth:20.0.1] /home/zestbrains/.gradle/caches/transforms-3/261fe5e97fcc0fde3c3adea851e83554/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:37:13-48
+316        <uses-library
+316-->[com.google.android.gms:play-services-maps:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/2c1e4c8b84a4f8fbb08a95b4e24f06f6/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+317            android:name="org.apache.http.legacy"
+317-->[com.google.android.gms:play-services-maps:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/2c1e4c8b84a4f8fbb08a95b4e24f06f6/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+318            android:required="false" />
+318-->[com.google.android.gms:play-services-maps:17.0.0] /home/zestbrains/.gradle/caches/transforms-3/2c1e4c8b84a4f8fbb08a95b4e24f06f6/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+319
+320        <activity
+320-->[com.google.android.gms:play-services-base:18.0.1] /home/zestbrains/.gradle/caches/transforms-3/f127bbc845529d1ba62306dbd8c95943/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+321            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+321-->[com.google.android.gms:play-services-base:18.0.1] /home/zestbrains/.gradle/caches/transforms-3/f127bbc845529d1ba62306dbd8c95943/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+322            android:exported="false"
+322-->[com.google.android.gms:play-services-base:18.0.1] /home/zestbrains/.gradle/caches/transforms-3/f127bbc845529d1ba62306dbd8c95943/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+323            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+323-->[com.google.android.gms:play-services-base:18.0.1] /home/zestbrains/.gradle/caches/transforms-3/f127bbc845529d1ba62306dbd8c95943/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+324
+325        <provider
+325-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+326            android:name="com.google.firebase.provider.FirebaseInitProvider"
+326-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+327            android:authorities="com.dcra.firebaseinitprovider"
+327-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+328            android:directBootAware="true"
+328-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+329            android:exported="false"
+329-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+330            android:initOrder="100" />
+330-->[com.google.firebase:firebase-common:20.0.0] /home/zestbrains/.gradle/caches/transforms-3/bdacc25ea80059c09049f1581cb7a011/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+331    </application>
+332
+333</manifest>

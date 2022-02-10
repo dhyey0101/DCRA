@@ -1,0 +1,942 @@
+[
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_splash_background.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_splash_background.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_downarrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_downarrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_feedchat.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_feedchat.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_gray_right.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_gray_right.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_video.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_video.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_selectwhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_selectwhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_ellipse.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_ellipse.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_feed.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_feed.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_lock.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_lock.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_back_arrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_back_arrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_floodicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_floodicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_selectgreen.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_selectgreen.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_users.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_users.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_humidity.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_humidity.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_calendar.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_calendar.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_map.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_map.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_report.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_report.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_user.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_user.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_right_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_right_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_selectwhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_selectwhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_edit.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_edit.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_calendar.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_calendar.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_login_arrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_login_arrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_cross_black.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_cross_black.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_deletewhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_deletewhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_cross_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_cross_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_logout.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_logout.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_verification_user.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_verification_user.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_filter.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_filter.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_back_arrow_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_back_arrow_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_info.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_info.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_layermenu.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_layermenu.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_gray_right.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_gray_right.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_safe.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_safe.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_plus.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_plus.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_calendar.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_calendar.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_editwhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_editwhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_downarrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_downarrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_safe.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_safe.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_2_logo.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_2_logo.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_cross_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_cross_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_menuicon_black.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_menuicon_black.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_delete.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_delete.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_users.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_users.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_report.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_report.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_dumyimage.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_dumyimage.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_selectedcheckmark.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_selectedcheckmark.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_back_arrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_back_arrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_2_logo.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_2_logo.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_logout.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_logout.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_tempratureicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_tempratureicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_verification_user.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_verification_user.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_video.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_video.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_userblue.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_userblue.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_search.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_search.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_humidity.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_humidity.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_line.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_line.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_lock.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_lock.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_resource_allocation.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_resource_allocation.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_videoplay.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_videoplay.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_report.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_report.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_videoplay.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_videoplay.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_search.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_search.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_line.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_line.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_logout.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_logout.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_surgeicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_surgeicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_wind_blue.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_wind_blue.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_cross.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_cross.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_layermenu.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_layermenu.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_blue_flood.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_blue_flood.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_otp.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_otp.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_safe.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_safe.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_selectedcheckmark.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_selectedcheckmark.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_blue_flood.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_blue_flood.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_layermenu.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_layermenu.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_deletewhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_deletewhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_1_logo.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_1_logo.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_google.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_google.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_gray_right.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_gray_right.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_edit.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_edit.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_users.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_users.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_ellipse.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_ellipse.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_cross_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_cross_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_ellipse.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_ellipse.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_humidity.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_humidity.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable_background_splash.xml.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable/background_splash.xml"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_surgeicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_surgeicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_dumyimage.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_dumyimage.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_selectgreen.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_selectgreen.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_not_safe.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_not_safe.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_message.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_message.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_back_arrow_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_back_arrow_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_windicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_windicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_menuicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_menuicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_lock.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_lock.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_editwhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_editwhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_otp.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_otp.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_greensign.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_greensign.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_feedback.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_feedback.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_rainicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_rainicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_imageicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_imageicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_feed.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_feed.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_google.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_google.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_cross.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_cross.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_login_arrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_login_arrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_bell.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_bell.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_facebook.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_facebook.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_selectedcheckmark.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_selectedcheckmark.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_userblue.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_userblue.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_right_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_right_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_menuicon_black.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_menuicon_black.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_search.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_search.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_blue_flood.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_blue_flood.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_wind_blue.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_wind_blue.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_videoplay.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_videoplay.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_userblue.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_userblue.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_menuicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_menuicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_tempratureicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_tempratureicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_rainicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_rainicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_selectwhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_selectwhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_map.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_map.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_hydromet.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_hydromet.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_login_arrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_login_arrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_cyclonic.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_cyclonic.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_fillcheckbox.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_fillcheckbox.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_info.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_info.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_right_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_right_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_cyclonic.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_cyclonic.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_tempratureicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_tempratureicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_plus.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_plus.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_feed.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_feed.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_fillcheckbox.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_fillcheckbox.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_wind_blue.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_wind_blue.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_rainicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_rainicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_not_safe.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_not_safe.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_1_logo.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_1_logo.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_map.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_map.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_surgeicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_surgeicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_delete.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_delete.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_facebook.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_facebook.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_feedback.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_feedback.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_imageicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_imageicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_selectgreen.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_selectgreen.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_info.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_info.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_not_safe.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_not_safe.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_menuicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_menuicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_profile.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_profile.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_otp.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_otp.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_user.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_user.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_windicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_windicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_feedback.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_feedback.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_dumyimage.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_dumyimage.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_resource_allocation.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_resource_allocation.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_filter.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_filter.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_ellipse_head.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_ellipse_head.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_message.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_message.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_splash.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_cyclonic.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_cyclonic.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_bell.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_bell.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_verification_user.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_verification_user.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_bell.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_bell.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_floodicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_floodicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_plus.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_plus.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_profile.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_profile.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_editwhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_editwhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_line.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_line.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_back_arrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_back_arrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_ellipse_head.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_ellipse_head.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_1_logo.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_1_logo.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_google.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_google.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_hydromet.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_hydromet.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_cross_black.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_cross_black.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_user.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_user.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_profile.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_profile.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_back_arrow_white.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_back_arrow_white.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_edit.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_edit.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_cross_black.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_cross_black.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_video.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_video.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_feedchat.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_feedchat.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_downarrow.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_downarrow.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_feedchat.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_feedchat.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_filter.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_filter.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_fillcheckbox.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_fillcheckbox.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_message.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_message.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_cross.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_cross.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_deletewhite.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_deletewhite.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_hydromet.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_hydromet.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_greensign.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_greensign.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_floodicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_floodicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imageicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_imageicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_resource_allocation.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_resource_allocation.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_facebook.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_facebook.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_ellipse_head.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_ellipse_head.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_delete.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_delete.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_menuicon_black.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_menuicon_black.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_windicon.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/assets_windicon.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_greensign.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xhdpi/assets_greensign.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_2_logo.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-mdpi/assets_2_logo.png"
+    },
+    {
+        "merged": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/home/zestbrains/React-Native-Project/Dhyey/dcra/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    }
+]
